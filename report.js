@@ -11,10 +11,7 @@ const getLetterGrade = (score) => {
 };
 
 const hasPassed = (score) => {
-  // if (score >= 60) return true
-
-  // return false
-
+ 
   return score >= 60;
 };
 
